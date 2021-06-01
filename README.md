@@ -5,6 +5,8 @@
 Te recomiendo no poner str en las preguntas Numericas
 
 Puede causar algun error al programa
+
+
 **Datos**
 y por accidente puse que el programa es una calculadora enrealidad es un juego de palabras
 
