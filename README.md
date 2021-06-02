@@ -16,7 +16,17 @@ Y es un codigo simple No es una app solo es un codigo hecho por diversion y lo q
 ---
 
  #### INSTALACIÓN: 
+```python
+C:\Users\vatma>cd Escritorio
 
+C:\Users\vatma\Escritorio>
+#Si no te deja poner cd Escritorio puedes hacer esto 
+C:\Users\vatma>cd One Drive
+
+C:\Users\vatma\OneDrive>cd Escritorio
+
+C:\Users\vatma\OneDrive\Escritorio>
+```
 Para empezar la instalacion debes darle click [Aqui](https://www.mediafire.com/folder/cyzm66e2hw0xi/Juego_De_Palabras)
 
 **Sigue los siguientes pasos de las imagenes para ejecutarlo**
