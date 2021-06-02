@@ -10,12 +10,17 @@ Puede causar algun error al programa
 #### DATOS
 
 
-por accidente puse que el programa es una calculadora enrealidad es un juego de palabras
-
+> por accidente puse que el programa es una calculadora enrealidad es un juego de palabras
 este programa lo hice por diversion
 Y es un codigo simple
+
+
  #### INSTALACIÓN: 
 
-Para empezar la instalacion debes darle click [Aqui]https://www.mediafire.com/folder/cyzm66e2hw0xi/Juego_De_Palabras*)
+Para empezar la instalacion debes darle click [Aqui](https://www.mediafire.com/folder/cyzm66e2hw0xi/Juego_De_Palabras*)
 
 **Sigue los siguientes pasos de las imagenes para ejecutarlo**
+<img src"">
+ ![](https://cdn.discordapp.com/attachments/698548898129510500/849753364794179584/TutoImg.png)
+ 
+ **No necesitas usar cd OneDrive puedes usar cd Desktop solo usa cd OneDrive si no te deja poner cd Desktop ok?**
