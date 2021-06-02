@@ -17,7 +17,7 @@ Y es un codigo simple No es una app solo es un codigo hecho por diversion y lo q
 
  #### INSTALACIÓN: 
 
-Para empezar la instalacion debes darle click [Aqui](https://github.com/VatOtaku888/Calculadora.git*)
+Para empezar la instalacion debes darle click [Aqui](https://github.com/VatOtaku888/Calculadora.git)
 
 **Sigue los siguientes pasos de las imagenes para ejecutarlo**
 
