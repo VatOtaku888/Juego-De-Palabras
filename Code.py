@@ -99,7 +99,7 @@ if Value == "Start" or Value == "start" or Value == "START":
                               print(Fore.RED + '''
       Adios Mi estimado espero que 
       hayas disfrutado de este programa
-      Bye bye!!
+      Bye bye!!!
                         ''')
                   else:
                               print(Fore.RED + '''
