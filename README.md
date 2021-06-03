@@ -47,7 +47,7 @@ C:\Users\vatma\OneDrive\Escritorio\Juego_De_Palabras>python Code.py
 ```
 **Un Ejemplo De el resultado** 
 [](https://cdn.discordapp.com/attachments/698548898129510500/849768107002167306/Gameplay.png)
-Para empezar la instalacion debes darle click [Aqui](https://www.mediafire.com/folder/cyzm66e2hw0xi/Juego_De_Palabras)
+Para empezar la instalacion debes darle click [Aqui](https://www.mediafire.com/file/ozpdiubgswamsbv/Juego_De_Palabras.zip/file)
 
 **Sigue los siguientes pasos de las imagenes para ejecutarlo**
 
