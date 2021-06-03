@@ -39,7 +39,8 @@ Para empezar la instalacion debes darle click [Aqui](https://www.mediafire.com/f
 
  ![](https://cdn.discordapp.com/attachments/698548898129510500/849768107002167306/Gameplay.png)
 
-  #### CODIGO 
+  #### CODIGO:
+___
 **Code.py**
 ```python
 #..........MODULOS.......#
