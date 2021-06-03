@@ -15,7 +15,21 @@ este programa lo hice por diversion
 Y es un codigo simple No es una app solo es un codigo hecho por diversion y lo queria compartir con ustedes!!
 ---
 
- #### INSTALACIÓN: 
+ ### INSTALACIÓN: 
+ 
+**INSTALA COLORAMA**
+###### 4 Maneras de instalarlo
+```
+1
+python -m pip install colorama
+2 
+python3 -m pip install colorama
+3
+pip3 install colorama 
+4
+pip install colorama
+```
+
 ```python
 C:\Users\vatma>cd Escritorio
 
